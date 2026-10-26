@@ -358,4 +358,4 @@ st.download_button(
 st.divider()
 st.caption(
     "Class XII CBSE AI Project | Python, Pandas and Streamlit"
-        )
+                )
