@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import date
 
 st.set_page_config(
-    page_title="Vaishnavi Restaurant AI",
+    page_title="FOOD DINING",
     layout="wide"
 )
 
