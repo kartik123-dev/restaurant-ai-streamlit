@@ -9,7 +9,7 @@ st.set_page_config(
 
 # ---------------- PAGE HEADER ----------------
 
-st.title("Vaishnavi Restaurant AI")
+st.title("FOOD DINING")
 st.caption("Sales Forecasting and Inventory Management")
 
 # ---------------- DEFAULT DATA ----------------
